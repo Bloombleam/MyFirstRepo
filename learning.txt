@@ -1,3 +1,4 @@
 linux basics
 Working with command lines
 Git and version control
+File management
